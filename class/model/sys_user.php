@@ -1,7 +1,7 @@
 <?php
 /**
- * @copyright  Copyright (c) 2010 Æß¿á (http://www.7cool.cn)
- * @link       http://www.7cool.cn
+ * @copyright  Copyright (c) 2010 
+ * @link       
  * @since      File available since Release 0.0.0
  * @version    Release: 0.0.1
  * @author     hong <hongyi1159@126.com>
